@@ -1,5 +1,5 @@
 # CS347 - Knowledge-Based Programming
-**University of Illinois (Historical Reconstruction - circa 1994)**
+**University of Illinois (Historical Reconstruction - circa 1994)** "What happens after the expert goes home?"
 
 > "Knowledge has little value until it can be organized into systems that
 reason, explain, and assist human decision making."
