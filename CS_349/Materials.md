@@ -293,3 +293,31 @@ Students should read
 
 The objective is to observe how engineering gradually moved from certainty,
 to probability, to evidence, and ultimately toward trust.
+
+# Bonus
+
+Philip K. Dick
+
+Do Androids Dream of Electric Sheep?
+
+Role
+
+Optional Seminar Reading
+
+Importance
+
+This novel is not a technical text.
+
+It explores empathy, identity, memory, and what it means to recognize another
+intelligence as worthy of moral consideration.
+
+Students should compare its themes with the engineering concepts developed
+throughout the semester.
+
+Discussion Questions
+
+Does intelligence imply trust?
+Does trust require empathy?
+Can an intelligent system evaluate itself?
+Who defines the ontology of personhood?
+What responsibilities remain uniquely human?
