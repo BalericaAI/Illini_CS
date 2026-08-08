@@ -1,5 +1,5 @@
 # CS448 - Computer Models of Cognitive Processes
-**University of Illinois (Historical Reconstruction - circa 1998)**
+**University of Illinois (Historical Reconstruction - circa 1998)** What engineering principles of cognition are worth preserving when we build intelligent systems?
 
 > "Intelligence is more than learning.
 > It is the organization of perception, memory, reasoning, and action."
