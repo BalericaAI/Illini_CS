@@ -55,3 +55,54 @@ But they'll remember walking into a client with a 40-year-old system and thinkin
 
 That's the mindset that turns a programmer into a modernization engineer. I suspect it'll also become one of the defining philosophies of your entire curriculum.
 
+
+Sidebar
+
+
+Sidebar: "The Knowledge Engineer's Notebook"
+
+Every week, students receive a page from a fictional notebook kept by a Knowledge Engineer between 1984 and 1992.
+
+Example:
+
+Week 2
+
+March 14, 1988
+
+Interviewed senior loan officer for four hours.
+
+Rule 12 contradicts Rule 19.
+
+He insists both are correct.
+
+Turns out Rule 19 only applies after federal restructuring in 1986.
+
+Documentation never updated.
+
+Must interview accounting tomorrow.
+
+Week 7
+
+Expert says he "just knows" when a claim looks suspicious.
+
+Asked him how.
+
+He cannot explain.
+
+Need another interview.
+
+Week 10
+
+Third expert completely disagrees with first two.
+
+All three have been successful for over twenty years.
+
+Knowledge engineering is harder than programming.
+
+By the end of the semester, students realize something profound:
+
+The hardest part of Expert Systems wasn't writing inference engines.
+
+It was understanding people well enough to capture how they actually reasoned.
+
+
