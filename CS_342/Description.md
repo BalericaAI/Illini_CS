@@ -1,5 +1,6 @@
 # CS342 - Computer Inference and Knowledge Acquisition
 **University of Illinois (Historical Reconstruction - circa 1994)**
+"The Engineering of Human Expertise."
 
 > "Reasoning is only as good as the knowledge upon which it operates."
 
