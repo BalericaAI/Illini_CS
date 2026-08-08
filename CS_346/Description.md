@@ -1,5 +1,5 @@
 # CS346 - Pattern Recognition and Machine Learning
-**University of Illinois (Historical Reconstruction - circa 1994)**
+**University of Illinois (Historical Reconstruction - circa 1994)**. "The Engineering of Discovery."
 
 > "Intelligence is not merely reasoning from rules—it is recognizing patterns
 > within the world."
