@@ -6,6 +6,11 @@
 
 ---
 
+#  Course Question
+
+"If a neural network continually develops increasingly accurate internal representations of the world, yet cannot explain them, has it learned... or has it merely adapted?"
+---
+
 # Course Description
 
 CS442 examines the theory, mathematics, and engineering of Artificial Neural
