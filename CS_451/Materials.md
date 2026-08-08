@@ -362,3 +362,33 @@ Enterprise AI Architecture
 Question
 
 What problems remain unsolved?
+
+What exists?
+
+↓
+
+How is knowledge represented?
+
+↓
+
+How does knowledge change?
+
+↓
+
+How does a system preserve itself?
+
+↓
+
+Why should it trust itself?
+
+↓
+
+Can meaning survive adaptation?
+
+↓
+
+Can identity survive continuous learning?
+
+↓
+
+What remains unanswered?
