@@ -262,3 +262,15 @@ Neural methods within the broader AI landscape.
 Students should observe how neural computation evolved from biological
 inspiration through mathematical formalization toward modern foundation
 models.
+
+#Bonus
+
+Karl Popper
+
+Conjectures and Refutations
+
+Role: Scientific Method for Engineers
+
+Why it belongs:
+Students spend the semester building hypotheses about how neural networks behave, designing experiments to challenge those hypotheses, and revising their mental models. That's Popper's philosophy in practice.
+
