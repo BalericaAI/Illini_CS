@@ -1,5 +1,5 @@
 # CS341 - Mechanized Mathematical Inference
-**University of Illinois (Historical Reconstruction - circa 1994)**
+**University of Illinois (Historical Reconstruction - circa 1994)** "The Engineering of Reasoning,"
 
 > "Can reasoning itself become computation?"
 
